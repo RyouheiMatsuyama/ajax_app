@@ -8,6 +8,10 @@
   color: gray;
 }
 
+<<<<<<< Updated upstream
 div[date-check="true"] {
+=======
+div[data-check="true"] {
+>>>>>>> Stashed changes
   background: #585555;
 }
